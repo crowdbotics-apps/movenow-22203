@@ -46,6 +46,11 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "django.contrib.sites",
+    "taxi_profile",
+    "booking",
+    "location",
+    "vehicle",
+    "wallet",
 ]
 LOCAL_APPS = [
     "home",
